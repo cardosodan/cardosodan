@@ -24,6 +24,8 @@ Desenvolvedor full stack focado em construir produtos web completos, do banco de
 
 ## Tecnologias
 
+No dia a dia trabalho com TypeScript e JavaScript, usando React e Next.js pra construir aplicações completas de ponta a ponta, Tailwind CSS pra estilização, Firebase (Auth e Firestore) como autenticação e banco de dados, e Cloudinary pra hospedagem de imagens. Também programo em Python, C, C++ e Java.
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,firebase,python,c,cpp,java,git,github,vscode&perline=8" />
