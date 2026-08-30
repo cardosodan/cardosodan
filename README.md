@@ -26,11 +26,28 @@ Desenvolvedor full stack focado em construir produtos web completos, do banco de
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,firebase,python,git,github,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,firebase,python,c,cpp,java,git,github,vscode&perline=8" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+
+</div>
+
+---
+
+## Hardware / Eletrônica
+
+Também trabalho com microcontroladores e computadores de placa única: Raspberry Pi, Arduino, ESP32 e ESP8266. Uso C/C++ (Arduino IDE / PlatformIO) pra programar os microcontroladores e Python nos projetos com Raspberry Pi.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
 </div>
 
